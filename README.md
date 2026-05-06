@@ -88,10 +88,10 @@
 
 ## 当前版本信息
 
-- 发布时间：2026-05-06T21:40:28+08:00
+- 发布时间：2026-05-06T21:42:07+08:00
 - ZIP 文件：[learning-system-portable.zip](./learning-system-portable.zip)
 - 校验文件：[learning-system-portable.zip.sha256](./learning-system-portable.zip.sha256)
 - SHA256：4B9D47289E10C06BE31D4A7C0FC336441D2AB76D89713555DA29752E6C606694
-- 鏈湴婧愮爜鍒嗘敮锛?sourceBranch
-- 鏈湴婧愮爜宸ヤ綔鏍戠姸鎬侊細dirty
+- 本地源码分支：main
+- 本地源码工作树状态：dirty
 
