@@ -49,12 +49,6 @@
 3. 浏览器会自动打开；如果没有自动打开，访问 `http://127.0.0.1:3000`。
 4. 首次进入时输入默认访问密码：`123456Abc.`。
 
-## 近期变更
-
-- 2026-05-06：发布 README 改为正式首页模板，补齐快速开始、模块介绍、安装升级与常见问题。
-- 2026-05-06：发布流程开始同步 README 配图目录，后续发布可以直接复用固定截图路径。
-- 2026-05-06：当前对外介绍聚焦错字、英语、事件与习惯、理财四组能力。
-
 ## 安装与升级
 
 - 电脑不需要预装 Node.js。
@@ -94,10 +88,10 @@
 
 ## 当前版本信息
 
-- Published at: 2026-05-06T21:19:32+08:00
-- ZIP file: [learning-system-portable.zip](./learning-system-portable.zip)
-- Checksum file: [learning-system-portable.zip.sha256](./learning-system-portable.zip.sha256)
-- SHA256: 4B9D47289E10C06BE31D4A7C0FC336441D2AB76D89713555DA29752E6C606694
-- Local source branch: main
-- Local source tree state: dirty
+- 发布时间：2026-05-06T21:40:28+08:00
+- ZIP 文件：[learning-system-portable.zip](./learning-system-portable.zip)
+- 校验文件：[learning-system-portable.zip.sha256](./learning-system-portable.zip.sha256)
+- SHA256：4B9D47289E10C06BE31D4A7C0FC336441D2AB76D89713555DA29752E6C606694
+- 鏈湴婧愮爜鍒嗘敮锛?sourceBranch
+- 鏈湴婧愮爜宸ヤ綔鏍戠姸鎬侊細dirty
 
