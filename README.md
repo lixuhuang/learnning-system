@@ -49,8 +49,6 @@
 3. 浏览器会自动打开；如果没有自动打开，访问 `http://127.0.0.1:3000`。
 4. 首次进入时输入默认访问密码：`123456Abc.`。
 
-![启动目录](./images/quick-start/launch-folder.png)
-
 ## 近期变更
 
 - 2026-05-06：发布 README 改为正式首页模板，补齐快速开始、模块介绍、安装升级与常见问题。
@@ -96,7 +94,7 @@
 
 ## 当前版本信息
 
-- Published at: 2026-05-06T21:15:51+08:00
+- Published at: 2026-05-06T21:18:12+08:00
 - ZIP file: [learning-system-portable.zip](./learning-system-portable.zip)
 - Checksum file: [learning-system-portable.zip.sha256](./learning-system-portable.zip.sha256)
 - SHA256: 4B9D47289E10C06BE31D4A7C0FC336441D2AB76D89713555DA29752E6C606694
