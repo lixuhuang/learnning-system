@@ -94,7 +94,7 @@
 
 ## 当前版本信息
 
-- Published at: 2026-05-06T21:18:12+08:00
+- Published at: 2026-05-06T21:19:32+08:00
 - ZIP file: [learning-system-portable.zip](./learning-system-portable.zip)
 - Checksum file: [learning-system-portable.zip.sha256](./learning-system-portable.zip.sha256)
 - SHA256: 4B9D47289E10C06BE31D4A7C0FC336441D2AB76D89713555DA29752E6C606694
